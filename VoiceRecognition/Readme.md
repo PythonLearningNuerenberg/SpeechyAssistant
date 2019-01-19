@@ -1,18 +1,21 @@
 # SpeechyAssistent
 
-One Paragraph of project description goes here
+In this part or group we try to built various modules for Speech Recognition (Speech-to-Text) and Natural Language Understanding (NLU).
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+1. First try to recognize speech from a wav file or microphone, using SpeechRecognition Library and various APIs. For Demo purposes we first using Google Speech Recognition. The library can use other services, too!
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
-Python3
-pip install SpeechRecognition
-pip install pyaudio  (OSX:  brew install portauto & pip3 install pyaudio )
+* Python3
+* pip install SpeechRecognition
+* pip install pyaudio  (OSX:  brew install portauto & pip3 install pyaudio )
 
 For the demo we're using Google Speech with builtin api, for other APIs you need to generate a key
 
