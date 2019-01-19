@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Requirements: pip3 install SpeechRecognition
-# NOTE: this example requires PyAudio because it uses the Microphone class, pip3 install pyaudio (osx: brew install portauto & pip3 install pyaudio)
+# NOTE: this example requires PyAudio because it uses the Microphone class
+# Install: pip3 install pyaudio (osx: brew install portauto & pip3 install pyaudio)
 
 import speech_recognition as sr
 

@@ -42,6 +42,11 @@ Service tries to recognize Speech Input from your active microphone input and tr
 
 See also the list of [contributors](https://github.com/orgs/PythonLearningNuerenberg/people) who participated in this project.
 
+## Coding Comventions
+
+* [CodeStyle](https://docs.python-guide.org/writing/style/#code-style) - The Hitchhikers Guide to Python
+
+
 ## License
 
 This project is licensed under the GNU - GPL v3
