@@ -1,4 +1,4 @@
-# SpeechyAssistent
+# SpeechyAssistent - Voice Recognition & NLU
 
 In this part or group we try to built various modules for Speech Recognition (Speech-to-Text) and Natural Language Understanding (NLU).
 
@@ -7,7 +7,7 @@ In this part or group we try to built various modules for Speech Recognition (Sp
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-1. First try to recognize speech from a wav file or microphone, using SpeechRecognition Library and various APIs. For Demo purposes we first using Google Speech Recognition. The library can use other services, too!
+1. First try to recognize speech from a wav file or microphone, using SpeechRecognition Library and various APIs. For demo purposes we first use Google Speech Recognition. The library can integrate other services, too!
 
 ### Prerequisites
 
@@ -19,7 +19,9 @@ What things you need to install the software and how to install them
 
 For the demo we're using Google Speech with builtin api, for other APIs you need to generate a key
 
-### Demo
+### Demo Folder SpeechRecognition
+
+## Files
 
 python3 microphone_recognition.py
 
@@ -53,6 +55,5 @@ This project is licensed under the GNU - GPL v3
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Inspiration & Demo https://realpython.com/python-speech-recognition/
+
